@@ -1,3 +1,3 @@
-module github.com/jay-so/golang-mission-1
+module github.com/jay-so/manual-parse
 
 go 1.22.5
