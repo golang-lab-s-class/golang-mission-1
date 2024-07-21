@@ -5,6 +5,8 @@ import (
 	"testing"
 )
 
+//parseArgs 메소드 유닛 테스트 코드 작성
+
 func TestParseArgs(t *testing.T) {
 	//테스트 케이스를 추상하기 위한 testConfig 구조체 정의
 	type testConfig struct {
