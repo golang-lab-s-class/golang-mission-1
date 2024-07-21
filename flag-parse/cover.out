@@ -1,0 +1,25 @@
+mode: set
+github.com/jay-so/manual-parse/main.go:16.56,22.38 5 1
+github.com/jay-so/manual-parse/main.go:22.38,24.3 1 0
+github.com/jay-so/manual-parse/main.go:25.2,26.20 2 1
+github.com/jay-so/manual-parse/main.go:26.20,28.3 1 1
+github.com/jay-so/manual-parse/main.go:29.2,29.18 1 1
+github.com/jay-so/manual-parse/main.go:32.52,34.34 2 1
+github.com/jay-so/manual-parse/main.go:34.34,36.3 1 1
+github.com/jay-so/manual-parse/main.go:39.55,41.16 2 1
+github.com/jay-so/manual-parse/main.go:41.16,43.3 1 1
+github.com/jay-so/manual-parse/main.go:44.2,45.12 2 1
+github.com/jay-so/manual-parse/main.go:48.35,49.23 1 1
+github.com/jay-so/manual-parse/main.go:49.23,51.3 1 1
+github.com/jay-so/manual-parse/main.go:52.2,52.12 1 1
+github.com/jay-so/manual-parse/main.go:56.60,62.16 6 1
+github.com/jay-so/manual-parse/main.go:62.16,64.3 1 1
+github.com/jay-so/manual-parse/main.go:65.2,65.20 1 1
+github.com/jay-so/manual-parse/main.go:65.20,67.3 1 1
+github.com/jay-so/manual-parse/main.go:68.2,68.15 1 1
+github.com/jay-so/manual-parse/main.go:71.13,73.16 2 0
+github.com/jay-so/manual-parse/main.go:73.16,76.3 2 0
+github.com/jay-so/manual-parse/main.go:77.2,78.16 2 0
+github.com/jay-so/manual-parse/main.go:78.16,81.3 2 0
+github.com/jay-so/manual-parse/main.go:82.2,83.16 2 0
+github.com/jay-so/manual-parse/main.go:83.16,86.3 2 0
